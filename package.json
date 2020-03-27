@@ -4,6 +4,7 @@
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
+    "start": "noe server.js",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint"
   },
@@ -12,6 +13,7 @@
     "boxicons": "^2.0.5",
     "core-js": "^3.6.4",
     "easy-circular-progress": "^1.0.4",
+    "express": "^4.17.1",
     "register-service-worker": "^1.6.2",
     "vue": "^2.6.11",
     "vue2-circle-progress": "^1.2.3"
