@@ -43,6 +43,7 @@ export default {
 .bold {
   font-weight: 700;
 }
+
 .spacer {
   background-color: #edf2f9;
   width: 100%;
