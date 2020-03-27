@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.d7e5df365fad052b3bb051aa0256b824.js"
+  "/precache-manifest.07817f6b97139a8d1460d3b10bbce4b6.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "gila-hank"});

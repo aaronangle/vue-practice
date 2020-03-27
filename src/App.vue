@@ -148,7 +148,7 @@ html body {
     width: 90vw;
   }
 }
-@media only screen and (max-width: 400px) {
+@media only screen and (max-width: 450px) {
   .header {
     padding: 0 10px;
   }
